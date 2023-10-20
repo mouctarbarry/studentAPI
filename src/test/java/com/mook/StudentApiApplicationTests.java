@@ -1,4 +1,4 @@
-package com.mook.studentapi;
+package com.mook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
