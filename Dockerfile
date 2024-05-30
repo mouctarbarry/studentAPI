@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-LABEL authors="bmouc"
+LABEL authors="mouctar"
 
 
 ENTRYPOINT ["top", "-b"]
